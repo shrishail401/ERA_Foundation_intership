@@ -84,6 +84,7 @@ def main():
             break
         else:
             print("⚠️ Invalid choice. Try again.")
+            print("uplaod the proper data")
             
 
 
